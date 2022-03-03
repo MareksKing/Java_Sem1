@@ -62,6 +62,12 @@ public class App {
         System.out.println("------------------------------------------");
 
         //Exercise 5 - Chances - Coinflip/Dice
+        /**
+         * Monetas mesanas simulacija
+         * @param N
+         * return Probability 
+         */
+
         double[] metieni = coinFlip(10000);
         for (int i = 0; i < metieni.length; i++){
             if (i == 0){
