@@ -318,6 +318,14 @@ public class App {
         }
         return rinda;
     }
+    /**
+     * Aprekina funkciju kas ievadita ka String
+     * @param inputEquation
+     * @return
+     */
+    static double executeStringEquation(String inputEquation){
+        return 0.0;
+    }
 
         
 
